@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="prefix__Pi_Chart" width="589.568" height="563.934" data-name="Pi Chart" viewBox="0 0 589.568 563.934">
+    <defs>
+        <style>
+            .prefix__cls-3{fill:rgba(0,0,0,.1)}.prefix__cls-10,.prefix__cls-13{fill:#fff;font-family:GESSTwoMedium-Medium,GE SS Two;font-weight:500}.prefix__cls-10{font-size:44px}.prefix__cls-13{font-size:20px}
+        </style>
+    </defs>
+    <g id="prefix__Group_126" data-name="Group 126">
+        <g id="prefix__Chart">
+            <g id="prefix__Group_125" data-name="Group 125">
+                <path id="prefix__Path_152" d="M1150.407 88.983L950.671 342.162l-312.018-81.726C674.837 121.913 800.811 19.684 950.671 19.684a321.1 321.1 0 0 1 199.736 69.299z" data-name="Path 152" transform="translate(-638.653 -19.684)" style="fill:#c89539"/>
+                <g id="prefix__Group_122" data-name="Group 122" transform="translate(312.018 104.406)">
+                    <path id="prefix__Path_153" d="M616.894 266.951L788.937 48.879a277.249 277.249 0 0 1 105.508 206.9z" data-name="Path 153" transform="translate(-616.894 -48.879)" style="fill:#28a4a2"/>
+                    <path id="prefix__Path_154" d="M826.05 57.669L643.443 266.95 814.622 48.879z" class="prefix__cls-3" data-name="Path 154" transform="translate(-643.443 -48.878)"/>
+                </g>
+                <g id="prefix__Group_123" data-name="Group 123" transform="translate(241.864 312.769)">
+                    <path id="prefix__Path_155" d="M697.142 116.852l241.209-9.709c.125 3.226.243 6.455.243 9.709 0 133.352-108.1 241.456-241.453 241.456a241.356 241.356 0 0 1-70.154-10.389z" data-name="Path 155" transform="translate(-626.988 -107.143)" style="fill:#a4a4a4"/>
+                    <path id="prefix__Path_156" d="M868.2 107.143c.125 3.226.243 6.455.243 9.709 0 3.108-.118 6.187-.233 9.266l-241.22-9.266z" data-name="Path 156" transform="translate(-556.834 -107.143)" style="fill:rgba(1,2,2,.1)"/>
+                </g>
+                <g id="prefix__Group_124" data-name="Group 124" transform="translate(96.861 267.115)">
+                    <path id="prefix__Path_157" d="M694.5 149.049c0-18.842 3.49-38.11 8.039-55.527L910.766 148.2l-63.617 206.753C758.816 328.168 694.5 246.13 694.5 149.049z" data-name="Path 157" transform="translate(-694.505 -92.608)" style="fill:#82b0bc"/>
+                    <path id="prefix__Path_159" d="M696.931 95.091L905.1 149.617l-210.6-44.065c.736-3.519 1.53-7.012 2.431-10.461z" class="prefix__cls-3" data-name="Path 159" transform="translate(-689.945 -95.091)"/>
+                    <path id="prefix__Path_158" d="M771.222 109.858l-62.513 205.9c-4.811-1.462-9.537-3.113-14.2-4.9z" class="prefix__cls-3" data-name="Path 158" transform="translate(-556.065 -53.417)"/>
+                </g>
+            </g>
+            <circle id="prefix__Ellipse_2" cx="121.961" cy="121.961" r="121.961" data-name="Ellipse 2" transform="rotate(-103.45 294.769 146.576)" style="opacity:.1;mix-blend-mode:multiply;isolation:isolate"/>
+            <ellipse id="prefix__Ellipse_3" cx="108.84" cy="108.839" data-name="Ellipse 3" rx="108.84" ry="108.839" transform="rotate(-105.103 290.907 137.276)" style="fill:#fff"/>
+        </g>
+        <text id="prefix__الإجراءات_المتخذة" data-name="الإجراءات المتخذة" transform="translate(308.548 309.273)" style="font-family:GESSTwoMedium-Medium,GE SS Two;font-weight:500;font-size:28px">
+            <tspan x="-59.92" y="0"></tspan><tspan y="0">الإجراءات</tspan><tspan x="-49.7" y="39">المتخذة</tspan>
+        </text>
+        <text id="prefix___23" class="prefix__cls-10" data-name="23" transform="translate(440.2 421.085)">
+            <tspan x="-24.068" y="0">23</tspan>
+        </text>
+        <text id="prefix___02" class="prefix__cls-10" data-name="2" transform="translate(163.052 370.753)">
+            <tspan x="-17.732" y="0">02</tspan>
+        </text>
+        <text id="prefix___19" class="prefix__cls-10" data-name="19" transform="translate(482.359 222.975)">
+            <tspan x="-17.798" y="0">19</tspan>
+        </text>
+        <text id="prefix___63" data-name="63" transform="translate(276.793 112.49)" style="font-size:51px;font-family:GESSTwoMedium-Medium,GE SS Two;font-weight:500;fill:#fff">
+            <tspan x="-27.897" y="0">63</tspan>
+        </text>
+        <text id="prefix__دعم_القطاعات_المتضررة" data-name="دعم القطاعات المتضررة" transform="translate(266.953 155.096)" style="font-size:16px;font-family:GESSTwoMedium-Medium,GE SS Two;font-weight:500;fill:#fff">
+            <tspan x="-85.152" y="0">دعم القطاعات المتضررة</tspan>
+        </text>
+        <text id="prefix__إحتواء_إنتشار_الفايروس" class="prefix__cls-13" data-name="إحتواء إنتشار الفايروس" transform="translate(109.573 393.855)">
+            <tspan x="9.374" y="17"></tspan><tspan y="17">إحتواء إنتشار</tspan><tspan x="26.734" y="43">الفايروس</tspan>
+        </text>
+        <text id="prefix__دعم_الاقتصاد_المصري" class="prefix__cls-13" data-name="دعم الاقتصاد المصري" transform="translate(415.985 231.91)">
+            <tspan x="4.664" y="17"></tspan><tspan y="17">دعم الاقتصاد</tspan>
+        </text>
+        <text id="prefix__دعم_الأفراد" class="prefix__cls-13" data-name="دعم الأفراد" transform="translate(369.205 432.535)">
+            <tspan x="21.893" y="17">دعم الأفراد</tspan>
+        </text>
+    </g>
+</svg>

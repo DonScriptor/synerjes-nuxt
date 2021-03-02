@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="116" height="116" viewBox="0 0 116 116">
+    <defs>
+        <filter id="prefix__Rectangle_76" width="116" height="116" x="0" y="0" filterUnits="userSpaceOnUse">
+            <feOffset dy="3"/>
+            <feGaussianBlur result="blur" stdDeviation="3"/>
+            <feFlood flood-opacity=".161"/>
+            <feComposite in2="blur" operator="in"/>
+            <feComposite in="SourceGraphic"/>
+        </filter>
+    </defs>
+    <g id="prefix__UP" transform="translate(-1746 -5700)">
+        <g transform="translate(1746 5700)">
+            <rect id="prefix__Rectangle_76-2" width="98" height="98" data-name="Rectangle 76" rx="10" transform="translate(9 6)" style="fill:#e1eaf2"/>
+        </g>
+        <g id="prefix__fast-forward" transform="translate(1789.986 5747.014)">
+            <g id="prefix__Group_309" data-name="Group 309" transform="rotate(-90 8 8)">
+                <g id="prefix__Group_308" data-name="Group 308">
+                    <path id="prefix__Path_1138" d="M15.63 14.558L1.915 27.129A1.143 1.143 0 0 1 0 26.286V1.143A1.144 1.144 0 0 1 1.915.3L15.63 12.871a1.146 1.146 0 0 1 0 1.687z" data-name="Path 1138" style="fill:#808ca4"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

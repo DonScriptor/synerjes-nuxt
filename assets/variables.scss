@@ -1,0 +1,49 @@
+// Ref: https://github.com/nuxt-community/vuetify-module#customvariables
+//
+// The variables you want to modify
+// $font-size-root: 20px;
+
+@font-face {
+  font-family: "GESSTwoMedium";
+  font-weight: normal;
+  //src: url("~assets/GE SS Two Medium.otf"); /* IE9 Compat Mode */
+  src: url("~assets/GE_SS_Two_Light.otf"); /* IE9 Compat Mode */
+}
+
+@font-face {
+  font-family: "GESSTwoMedium";
+  font-weight: 500;
+  src: url("~assets/GE_SS_Two_Medium.otf"); /* IE9 Compat Mode */
+}
+@font-face {
+  font-family: "GESSTwoMedium";
+  font-weight: bold;
+  src: url("~assets/GE_SS_Two_Bold.otf"); /* IE9 Compat Mode */
+}
+.v-application--is-rtl {
+  * {
+    font-family: "GESSTwoMedium" !important;
+  }
+
+  .v-application .title {
+    font-family: "GESSTwoMedium" !important;
+  }
+}
+
+@media (min-width: 1264px) {
+  .container:not(.container--fluid) {
+    width: 90%;
+    max-width: 1400px;
+  }
+}
+/*
+○ 1920 x 1080
+○ 1366 x 768
+○ 360 x 640
+○ 375 x 667
+○ 360 x 720
+*/
+html{
+  zoom: 93%;
+
+}

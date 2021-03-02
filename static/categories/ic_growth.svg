@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="79" height="79" viewBox="0 0 79 79">
+    <defs>
+        <style>
+            .prefix__cls-2{fill:#fff}
+        </style>
+    </defs>
+    <g id="prefix__ic_growth" transform="translate(-1672.173 -2229)">
+        <rect id="prefix__Rectangle_22" width="79" height="79" data-name="Rectangle 22" rx="15" transform="translate(1672.173 2229)" style="fill:#c89539"/>
+        <g id="prefix__ic_growth-2" data-name="ic_growth" transform="translate(1688.17 2244.001)">
+            <g id="prefix__Group_324" data-name="Group 324" transform="translate(.003 46.095)">
+                <g id="prefix__Group_323" data-name="Group 323">
+                    <path id="prefix__Rectangle_82" d="M0 0H48V2.286H0z" class="prefix__cls-2" data-name="Rectangle 82"/>
+                </g>
+            </g>
+            <g id="prefix__Group_326" data-name="Group 326" transform="translate(3.135 -.001)">
+                <g id="prefix__Group_325" data-name="Group 325">
+                    <path id="prefix__Path_1156" d="M74.51 6.843l-3.2-6.4a.8.8 0 0 0-1.073-.359l-6.4 3.2a.8.8 0 1 0 .715 1.432L69.186 2.4l-1.264 3.612A42.7 42.7 0 0 1 31.323 34.4l.136 1.6A44.3 44.3 0 0 0 69.433 6.54l1.291-3.69 2.354 4.708a.8.8 0 1 0 1.432-.715z" class="prefix__cls-2" data-name="Path 1156" transform="translate(-31.323 .001)"/>
+                </g>
+            </g>
+            <g id="prefix__Group_328" data-name="Group 328" transform="translate(3.203 38.403)">
+                <g id="prefix__Group_327" data-name="Group 327">
+                    <path id="prefix__Path_1157" d="M38.4 384.006h-5.6a.8.8 0 0 0-.8.8v4.8a.8.8 0 0 0 .8.8h5.6a.8.8 0 0 0 .8-.8v-4.8a.8.8 0 0 0-.8-.8zm-.8 4.8h-4v-3.2h4z" class="prefix__cls-2" data-name="Path 1157" transform="translate(-32.003 -384.006)"/>
+                </g>
+            </g>
+            <g id="prefix__Group_330" data-name="Group 330" transform="translate(12.004 36.003)">
+                <g id="prefix__Group_329" data-name="Group 329">
+                    <path id="prefix__Path_1158" d="M126.4 360.006h-5.6a.8.8 0 0 0-.8.8v7.2a.8.8 0 0 0 .8.8h5.6a.8.8 0 0 0 .8-.8v-7.2a.8.8 0 0 0-.8-.8zm-.8 7.2h-4v-5.6h4z" class="prefix__cls-2" data-name="Path 1158" transform="translate(-120.003 -360.006)"/>
+                </g>
+            </g>
+            <g id="prefix__Group_332" data-name="Group 332" transform="translate(20.804 32.002)">
+                <g id="prefix__Group_331" data-name="Group 331">
+                    <path id="prefix__Path_1159" d="M214.4 320.006h-5.6a.8.8 0 0 0-.8.8v11.2a.8.8 0 0 0 .8.8h5.6a.8.8 0 0 0 .8-.8v-11.2a.8.8 0 0 0-.8-.8zm-.8 11.2h-4v-9.6h4z" class="prefix__cls-2" data-name="Path 1159" transform="translate(-208.003 -320.006)"/>
+                </g>
+            </g>
+            <g id="prefix__Group_334" data-name="Group 334" transform="translate(29.605 26.402)">
+                <g id="prefix__Group_333" data-name="Group 333">
+                    <path id="prefix__Path_1160" d="M302.4 264.006h-5.6a.8.8 0 0 0-.8.8v16.8a.8.8 0 0 0 .8.8h5.6a.8.8 0 0 0 .8-.8v-16.8a.8.8 0 0 0-.8-.8zm-.8 16.8h-4v-15.2h4z" class="prefix__cls-2" data-name="Path 1160" transform="translate(-296.003 -264.006)"/>
+                </g>
+            </g>
+            <g id="prefix__Group_336" data-name="Group 336" transform="translate(38.406 15.201)">
+                <g id="prefix__Group_335" data-name="Group 335">
+                    <path id="prefix__Path_1161" d="M390.4 152.006h-5.6a.8.8 0 0 0-.8.8v28a.8.8 0 0 0 .8.8h5.6a.8.8 0 0 0 .8-.8v-28a.8.8 0 0 0-.8-.8zm-.8 28h-4v-26.4h4z" class="prefix__cls-2" data-name="Path 1161" transform="translate(-384.003 -152.006)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="89.09" height="91.324" viewBox="0 0 89.09 91.324">
+    <defs>
+        <style>
+            .prefix__cls-1{fill:#fff;stroke:#c89539}
+        </style>
+    </defs>
+    <g id="prefix__wheelbarrow" transform="translate(-6.05 .5)">
+        <g id="prefix__Group_9" data-name="Group 9" transform="translate(6.55)">
+            <g id="prefix__ic_workers">
+                <path id="prefix__Path_20" d="M145.551 330.261a11.289 11.289 0 0 0-10.888 8.467H109.65l-1.826 5.472a4.377 4.377 0 0 1-8.467-.663l-4.135-24.785-5.568.929 4.132 24.785a10.022 10.022 0 0 0 19.392 1.521l.542-1.614h20.944a11.269 11.269 0 1 0 10.888-14.111zm0 16.933a5.644 5.644 0 1 1 5.644-5.644 5.644 5.644 0 0 1-5.644 5.644z" class="prefix__cls-1" data-name="Path 20" transform="translate(-74.995 -262.527)"/>
+                <path id="prefix__Path_21" d="M17.407 0H6.55v5.644h6.076l3.945 23.673 5.565-.929z" class="prefix__cls-1" data-name="Path 21" transform="translate(-6.55)"/>
+                <path id="prefix__Rectangle_10" d="M0 0H5.644V5.644H0z" class="prefix__cls-1" data-name="Rectangle 10" transform="rotate(-9.5 283.433 -54.073)"/>
+                <path id="prefix__Rectangle_11" d="M0 0H5.644V5.644H0z" class="prefix__cls-1" data-name="Rectangle 11" transform="rotate(-9.445 216.519 -48.828)"/>
+                <path id="prefix__Path_22" d="M166.229 202.333v-5.644h-22.978l-4.775-31.045h52.643l-5.094 30.579 5.565.931L197.785 160h-65.891l6.514 42.333z" class="prefix__cls-1" data-name="Path 22" transform="translate(-109.785 -131.778)"/>
+            </g>
+        </g>
+    </g>
+</svg>

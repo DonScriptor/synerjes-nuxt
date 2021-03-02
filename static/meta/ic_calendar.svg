@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+    <g id="prefix__ic_calendar" transform="translate(-1666 -4767)">
+        <rect id="prefix__Rectangle_41" width="48" height="48" fill="#28a4a2" data-name="Rectangle 41" rx="11" transform="translate(1666 4767)"/>
+        <g id="prefix__ic_calendar-2" data-name="ic_calendar" transform="translate(1675.771 4776.6)">
+            <path id="prefix__Path_109" fill="#fff" d="M26.674 4.276h-2.4v-2.4h-1.6v2.4H9.875v-2.4h-1.6v2.4h-2.4a4.005 4.005 0 0 0-4 4v18.4a4.005 4.005 0 0 0 4 4h20.8a4.005 4.005 0 0 0 4-4V8.275a4.006 4.006 0 0 0-4.001-3.999zm2.4 22.4a2.4 2.4 0 0 1-2.4 2.4H5.876a2.4 2.4 0 0 1-2.4-2.4v-14.4h25.6zm0-16H3.475v-2.4a2.4 2.4 0 0 1 2.4-2.4h2.4v1.6h1.6v-1.6h12.8v1.6h1.6v-1.6h2.4a2.4 2.4 0 0 1 2.4 2.4z" data-name="Path 109" transform="translate(-1.875 -1.875)"/>
+        </g>
+    </g>
+</svg>
